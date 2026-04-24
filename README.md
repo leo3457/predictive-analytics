@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 <div align="center">
   <h1>⚡ EV Predictive Maintenance & Anomaly Detection</h1>
   <p><i>Forecasting critical vehicle subsystem failures before they happen using Time-Series AI.</i></p>
