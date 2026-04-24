@@ -23,8 +23,8 @@ Instead of attempting to forecast unpredictable binary software flags, this pipe
 | File | Description |
 |------|-------------|
 | `chronos2_backtest_leo.ipynb` | Primary end-to-end Jupyter Notebook (SQL, Pandas, Chronos-2, Plotting). |
-| `get_tcs_snippets.py` | Script for extracting isolated snippet matrices. Path: ev_prognostics/tcs_testing/chronos-2-protypes/get_tcs_snippets.py|
-| `data_cleaner.py` | Memory-safe chunked CSV cleaning utility. Path: ev_prognostics/tcs_testing/chronos-2-protypes/data_cleaner.py|
+| `get_tcs_snippets.py` | Script for extracting isolated snippet matrices. Path: chronos-2/chronos-2-protypes/python/get_tcs_snippets.py|
+| `data_cleaner.py` | Memory-safe chunked CSV cleaning utility. Path: chronos-2/chronos-2-protypes/python/data_cleaner.py|
 | `faults.go` | Reference map for software hex codes to English fault names. |
 
 ## 🚀 Installation & Setup
